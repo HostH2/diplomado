@@ -146,3 +146,4 @@ e = x >> 2
 f = x << 2
 print (a, b, c, d, e, f)
 print ("validacion de Git")
+print ("validacion de Git 2")
